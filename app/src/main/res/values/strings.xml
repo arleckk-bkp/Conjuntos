@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Conjuntos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="altas">Altas</string>
+    <string name="operacion">Operaciones</string>
+    <string name="salir">Salir</string>
+    <string name="title_activity_altas">AltasActivity</string>
+    <string name="universo">Conjunto Universo:</string>
+    <string name="conjunto_a">Conjunto A:</string>
+    <string name="conjunto_b">Conjunto B:</string>
+    <string name="title_activity_operacion">OperacionActivity</string>
+    <string name="instruccion">Ingrese la operacion deseada</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="resultado">El resultado de la operacion es:</string>
+</resources>
